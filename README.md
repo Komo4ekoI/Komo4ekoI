@@ -1,8 +1,1 @@
-- 🔭 I’m currently working on Discord Bots
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on DD Tech
-- 🤔 I’m looking for help with Python
-- 💬 Ask me about smth
-- 📫 How to reach me: :3
-- 😄 Pronouns: Komo4ek
-- ⚡ Fun fact: Komar
+Student of the Computer Science and Engineering course - UniBo
